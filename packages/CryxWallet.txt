@@ -1,5 +1,5 @@
-name-CryxWallet
+name-RamTest
 developer-Cryx Development
 url-https://cryxwallet.com
 version-0.0.1
-path-C:/Users/Public/CryxWallet
+path-C:/Users/Public/RamTest
