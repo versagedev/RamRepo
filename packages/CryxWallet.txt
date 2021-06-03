@@ -1,0 +1,5 @@
+name-CryxWallet
+developer-Cryx Development
+url-https://cryxwallet.com
+version-0.0.1
+path-C:/Users/Public/CryxWallet
